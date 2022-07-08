@@ -38,6 +38,8 @@ You will be able to upload data, clean data, create basic visualizations, create
 - data comics, or
 - Dashboards. 
 
+### Check our gallery of [example visualizations](gallery) as well as [more examples on the wider web](collection).
+
 ## How can you profit from this project?
 Joining the project as participant / project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects / projects by your stakeholders. We aim to run an open online course, too, that will teach some basics. We are currently evaluating how much support we can provide with your individual visualization projects, but the idea is that we try to incorporate as much support into the platform. 
 
