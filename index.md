@@ -56,13 +56,13 @@ co-design and ideating novel ways how we can build better visualization and stor
 ## What's our research in this? 
 Below is a list of past papers and projects we engaged in. 
 
-- Dashboard Design: [https://dashboarddesignpatterns.github.io](https://dashboarddesignpatterns.github.io/)
-- Data Comics: [https://www.researchgate.net/publication/324670172_Design_Patterns_for_Data_Comics](https://www.researchgate.net/publication/324670172_Design_Patterns_for_Data_Comics)
-- Data Comics workshops: [https://vishub.net/papers/wang2019teaching.pdf](https://vishub.net/papers/wang2019teaching.pdf)
-- Visualization tool library: [https://vistools.net](https://vistools.net)
-- Visualization Cheatsheets: [https://vishub.net/papers/wang2020cheat.pdf](https://vishub.net/papers/wang2020cheat.pdf)
-- Sketchnoting: [https://www.dropbox.com/s/gsuc2dk7qyybc01/CHI2021%20-%20Sketchnoting%20%28Final%29.pdf?dl=0](https://www.dropbox.com/s/gsuc2dk7qyybc01/CHI2021%20-%20Sketchnoting%20%28Final%29.pdf?dl=0)
-- Online network visualizations: [https://vistorian.github.io](https://vistorian.github.io)
+- [Dashboard Design](https://dashboarddesignpatterns.github.io)
+- [Data Comics](https://www.researchgate.net/publication/324670172_Design_Patterns_for_Data_Comics)
+- [Data Comics workshops](https://vishub.net/papers/wang2019teaching.pdf)
+- [Visualization tool library](https://vistools.net)
+- [Visualization Cheatsheets](https://vishub.net/papers/wang2020cheat.pdf)
+- [Sketchnoting](https://www.dropbox.com/s/gsuc2dk7qyybc01/CHI2021%20-%20Sketchnoting%20%28Final%29.pdf?dl=0)
+- [Online network visualizations](https://vistorian.github.io)
 
 ## Contact
 - [Benjamin Bach](mailto:bbach@ed.ac.uk), Reader in Visualization and Design Informatics
