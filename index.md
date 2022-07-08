@@ -7,7 +7,7 @@ This website is part of an application to the [UKRI call on Enabling human centr
 ## Who are we?
 We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
 
-If you want to get in touch, please [email us](#names)
+### To get in touch, [email us](#names)
 
 ## Why can designing and creating effective visualizations be a challenge? 
 Visualization design requires both creative and critical design methods on the one side, and authoring tools on the other side. Creating such visualizations involves skills in design, programming, human-computer interaction, psychology, storytelling and potentially other areas. With this project, we seek to engage with everyone creating and using visualization to research the next generation of tools and methods for visualization empowerment. 
