@@ -1,8 +1,5 @@
-# Visualization Empowerment for Communication and Decision Making in Climate Action
 
-
-
-## In a Nutshell
+## About this project
 This project aims to empower novice visualization designs across communities, citizens, researchers, and decision makers in data visualization for climate action. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. 
 
 ## Who are we?
