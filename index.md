@@ -3,7 +3,9 @@
 This project aims to empower novice visualization designs across communities, citizens, researchers, and decision makers in data visualization for climate action. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. 
 
 ## Who are we?
-We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the VisHub Lab at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
+We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
+
+If you want to get in touch, please [email us](#names)
 
 ## Why can designing and creating effective visualizations be a challenge? 
 Visualization design requires both creative and critical design methods on the one side, and authoring tools on the other side. Creating such visualizations involves skills in design, programming, human-computer interaction, psychology, storytelling and potentially other areas. With this project, we seek to engage with everyone creating and using visualization to research the next generation of tools and methods for visualization empowerment. 
@@ -59,5 +61,11 @@ Below is a list of past papers and projects we engaged in.
 - Visualization Cheatsheets: [https://vishub.net/papers/wang2020cheat.pdf](https://vishub.net/papers/wang2020cheat.pdf)
 - Sketchnoting: [https://www.dropbox.com/s/gsuc2dk7qyybc01/CHI2021%20-%20Sketchnoting%20%28Final%29.pdf?dl=0](https://www.dropbox.com/s/gsuc2dk7qyybc01/CHI2021%20-%20Sketchnoting%20%28Final%29.pdf?dl=0)
 - Online network visualizations: [https://vistorian.github.io](https://vistorian.github.io)
+
+## Names
+
+[Benjamin Bach](mailto:bbach@ed.ac.uk), Reader in Visualization and Design Informatics
+Uta Hinrichs, Reader in Data Visualization
+
 
 
