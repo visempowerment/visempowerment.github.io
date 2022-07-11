@@ -87,6 +87,10 @@ Our research goals are:
 4. **Evaluate a) the effectiveness of our guidance mechanisms and b) evaluate participants' learning progress** on a higher level, e.g., knowledge about visual perception, accessibility, interaction design, storytelling, good visual styles, deceptiveness, etc. We will obtain data through a longitudinal study over several months and involving around 40 novice-designers and interaction tracking, interviews, and drop-in sessions.
 5. **Create a set of guidelines and conceptual knowledge** (e.g., design spaces) about the use of guidance for visualization design. This should inspire other visualization tool desginers (e.g., Tableau, PowerBI) to include more guidance into their systems to help onboarding and teaching novice designers. 
 
+## Is this only specific to Climate Action? 
+
+**No.** As shown [here](#about-this-project), climate action is our main focus in working with project partners. We are very open to any other areas where we can support people creating effective visualizations. Please [get in touch](mail:bbach@ed.ac.uk) to know more.
+
 
 ## What is our expertise and background in this research? 
 Below is a list of past papers and projects we engaged in. 
