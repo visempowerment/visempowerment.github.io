@@ -66,19 +66,14 @@ You will be able to upload data, clean data, create basic visualizations, and cr
 Joining the project as participant / project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects / projects by your stakeholders. We aim to run an open online course, too, that will teach some basics. We are currently evaluating how much support we can provide with your individual visualization projects, but the idea is that we try to incorporate as much support into the platform. 
 
 ## How can you get involved
-We are looking for
-- citizens and organizations wanting go create visualizations about climate action, 
-- researchers in education and climate action, 
-- working professionals,
-- communities,
-- etc, 
-
-who 
-- want to support this project with expertise in education, climate action, communication, data visualization, outreach.
-- would like to join an open visualization course over a couple of weeks,
-- work on your smaller data visualization projects, 
-- Help us testing and evaluating our prototypes while working on their own data, or
-- co-design and ideating novel ways how we can build better visualization and storytelling authoring tools. 
+We are looking for **citizens, organizations, researchers, educators, climate activists, working professionals, communities**, etc, who would be willing to support our project through one or more of the following: 
+- join **interviews** on the challenges of visualization design (1h max)
+- want to support this project throughj **expertise** in education, climate action, communication, data visualization, outreach.
+- would like to join an open **visualization course** over a couple of weeks,
+- work on your smaller data **visualization projects**, 
+- Help us testing and **evaluating our prototypes** while working on their own data, or
+- **co-design and ideating** novel ways how we can build better visualization and storytelling authoring tools, 
+- etc.
 
 
 ## What are our research goals?
