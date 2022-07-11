@@ -1,7 +1,7 @@
 ![Uploading image.png…]()
 
 ## About this project
-This project aims to empower novice-designs across communities, citizens, researchers, and decision makers in data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
+This project aims to empower novice-designs across communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
 This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/)
 
