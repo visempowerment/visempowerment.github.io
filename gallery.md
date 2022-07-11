@@ -1,9 +1,7 @@
 This page shows examples of visualizations around climate action: 
-* [single visualizations](#single-visualizations), 
-* [Dashboards](#dashboards)
-* [Data stories](#data-stories)
-
-Browse and get inspired!
+* [single visualizations](#single-visualizations),
+* [Dashboards](#dashboards), and
+* [Data stories](#data-stories).
 
 # Single visualizations
 
