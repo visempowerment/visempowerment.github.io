@@ -52,7 +52,6 @@ context, and messages
 The goal of this proposal is to create an **online platform and authoring environment that guides novice-designers in through their design process for creating and publishing effective data visualizations and visual stories for their own data**. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
 
 
-
 ## What will you be able to do with this platform? 
 You will be able to upload data, clean data, create basic visualizations, and create 
 - infographics, 
@@ -61,16 +60,16 @@ You will be able to upload data, clean data, create basic visualizations, and cr
 - [data comics](gallery#dashboards), and
 - [Dashboards](gallery#data-stories). 
 
-### [>> Gallery of visualizations for climate action](gallery). 
+### [>> Gallery of example visualizations for climate action](gallery). 
 
 ## How can you profit from this project?
 Joining the project as participant / project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects / projects by your stakeholders. We aim to run an open online course, too, that will teach some basics. We are currently evaluating how much support we can provide with your individual visualization projects, but the idea is that we try to incorporate as much support into the platform. 
 
 ## How can you get involved
-We are looking for collaborators: 
-- citizens, 
-- organizations, 
-- working professionals, 
+We are looking for
+- citizens and organizations wanting go create visualizations about climate action, 
+- researchers in education and climate action, 
+- working professionals,
 - communities,
 - etc, 
 
