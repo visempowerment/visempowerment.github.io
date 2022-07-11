@@ -7,7 +7,6 @@ This website is part of an application to the [UKRI call on Enabling human centr
 
 ![](figures/SDGS.png)
 
-
 ## Who are we?
 We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](https://vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
 
@@ -37,7 +36,7 @@ Learning these decisions and skills requires time and practice as a lot of the k
 This project aims to both provide **tools and training** for novice designers to create effective data visualizations. With the project, we aim to support the following learning goals:
 * **USE** a wide range of visualizations in an informed way, know their advantages and pitfalls;
 leverage the power of interaction.
-* PREPARE data sets for visualization; clean and format data; filter and aggregate; link data
+* **PREPARE** data sets for visualization; clean and format data; filter and aggregate; link data
 files.
 * **DESIGN** visualizations that are clear, effective, and informative; explore design spaces
 and possibilities; iterate designs; create accessible visualizations; 
