@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 ## About this project
 This project aims to empower novice-designs across communities, citizens, researchers, and decision makers in data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
@@ -29,8 +31,6 @@ Second, there are plenty of tools (see vistools.net) to create visualization. Ho
 
 ## What's the goal of this proposal?
 The goal of this proposal is to create an online platform and authoring environment that guides novice-designers in through their process of creating and publishing effective data visualizations and visual stories for their own data. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
-
-![](figures/SDGS.png)
 
 ## What will you be able to do with this platform? 
 You will be able to upload data, clean data, create basic visualizations, create 
