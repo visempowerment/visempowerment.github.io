@@ -75,7 +75,7 @@ We are looking for collaborators:
 - etc, 
 
 who 
-
+- want to support this project with expertise in education, climate action, communication, data visualization, outreach.
 - would like to join an open visualization course over a couple of weeks,
 - work on your smaller data visualization projects, 
 - Help us testing and evaluating our prototypes while working on their own data, or
