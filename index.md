@@ -57,7 +57,6 @@ co-design and ideating novel ways how we can build better visualization and stor
 5. Create a set of guidelines and conceptual knowledge (e.g., design spaces) about the use of guidance for visualization design. This should inspire other visualization tool desginers (e.g., Tableau, PowerBI) to include more guidance into their systems to help onboarding and teaching novice designers. 
 
 
-
 ## What's our research in this? 
 Below is a list of past papers and projects we engaged in. 
 
