@@ -1,13 +1,12 @@
-
 ## About this project
-This project aims to empower novice visualization designs across communities, citizens, researchers, and decision makers in data visualization for climate action. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. 
+This project aims to empower novice-designs across communities, citizens, researchers, and decision makers in data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
 This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/)
 
 ## Who are we?
 We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](https://vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
 
-### To get in touch, [email us](#contact)
+### [>> Get in touch](#contact)
 
 ## Why can designing and creating effective visualizations be a challenge? 
 Visualization design requires both creative and critical design methods on the one side, and authoring tools on the other side. Creating such visualizations involves skills in design, programming, human-computer interaction, psychology, storytelling and potentially other areas. With this project, we seek to engage with everyone creating and using visualization to research the next generation of tools and methods for visualization empowerment. 
@@ -31,14 +30,17 @@ Second, there are plenty of tools (see vistools.net) to create visualization. Ho
 ## What's the goal of this proposal?
 The goal of this proposal is to create an online platform and authoring environment that guides novice-designers in through their process of creating and publishing effective data visualizations and visual stories for their own data. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
 
+![](figures/SDGS.png)
+
 ## What will you be able to do with this platform? 
 You will be able to upload data, clean data, create basic visualizations, create 
 - infographics, 
 - interactive visualizations, 
-- data comics, or
-- Dashboards. 
+- [single visualiztions](gallery#single-visualizations)
+- [data comics](gallery#dashboards), or
+- [Dashboards](gallery#data-stories). 
 
-### Check our gallery of [example visualizations](gallery) as well as [more examples on the wider web](collection).
+### [>> Gallary of visualizations for climate action](gallery). 
 
 ## How can you profit from this project?
 Joining the project as participant / project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects / projects by your stakeholders. We aim to run an open online course, too, that will teach some basics. We are currently evaluating how much support we can provide with your individual visualization projects, but the idea is that we try to incorporate as much support into the platform. 
