@@ -1,3 +1,10 @@
+This page shows examples of visualizations around climate action: 
+* [single visualizations](#single-visualizations), 
+* [Dashboards](#dashboards)
+* [Data stories](#data-stories)
+
+Browse and get inspired!
+
 # Single visualizations
 
 ### Transport Carbon Footprint
