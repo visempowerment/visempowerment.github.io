@@ -1,7 +1,7 @@
 ![](figures/teaser.png)
 
 ## About this project
-This project aims to empower communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
+This project aims to [empower](#what-do-we-mean-by-empowerment) communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
 This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/).
 
@@ -32,17 +32,19 @@ Learning these decisions and skills requires time and practice as a lot of the k
 
 ## What do we mean by 'Empowerment'? 
 
+![](figures/learning goals.png)
+
 This project aims to both provide **tools and training** for novice designers to create effective data visualizations. With the project, we aim to support the following learning goals:
 * **USE** a wide range of visualizations in an informed way, know their advantages and pitfalls;
 leverage the power of interaction.
-• PREPARE data sets for visualization; clean and format data; filter and aggregate; link data
+* PREPARE data sets for visualization; clean and format data; filter and aggregate; link data
 files.
-• **DESIGN** visualizations that are clear, effective, and informative; explore design spaces
+* **DESIGN** visualizations that are clear, effective, and informative; explore design spaces
 and possibilities; iterate designs; create accessible visualizations; 
 * **CREATE** visualizations in the form of infographics, dashboards, interactives, or data comics; add clear explanations and annotations; share online with a wider audience;
-• **CRITIQUE** visualization designs and existing visualizations; make informed design decisions;
+* **CRITIQUE** visualization designs and existing visualizations; make informed design decisions;
 question existing practices
-• **COMMUNICATE** information in visualizations through clear and engaging ways of storytelling;
+* **COMMUNICATE** information in visualizations through clear and engaging ways of storytelling;
 know and apply basic means of storytelling; chose effective media depending on audience,
 context, and messages
 
