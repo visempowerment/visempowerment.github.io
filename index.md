@@ -30,6 +30,23 @@ Some of the challenges in creating effective visualizations include:
  
 Learning these decisions and skills requires time and practice as a lot of the knowledg is tacit: you learn best by doing. One way to learn about visualization design are courses, but courses time-intense for both participants and teachers. There are plenty of tools (see vistools.net) to create visualization. However, choosing a tool that suits your needs and skills and consequently learning these tools can be challenging. Not every tool is the same. No tool support the whole process from data formatting, visualization design, and publication, 
 
+## What do we mean by 'Empowerment'? 
+
+This project aims to both provide **tools and training** for novice designers to create effective data visualizations. With the project, we aim to support the following learning goals:
+* **USE** a wide range of visualizations in an informed way, know their advantages and pitfalls;
+leverage the power of interaction.
+• PREPARE data sets for visualization; clean and format data; filter and aggregate; link data
+files.
+• **DESIGN** visualizations that are clear, effective, and informative; explore design spaces
+and possibilities; iterate designs; create accessible visualizations; 
+* **CREATE** visualizations in the form of infographics, dashboards, interactives, or data comics; add clear explanations and annotations; share online with a wider audience;
+• **CRITIQUE** visualization designs and existing visualizations; make informed design decisions;
+question existing practices
+• **COMMUNICATE** information in visualizations through clear and engaging ways of storytelling;
+know and apply basic means of storytelling; chose effective media depending on audience,
+context, and messages
+
+
 ## What's the goal of this proposal?
 The goal of this proposal is to create an **online platform and authoring environment that guides novice-designers in through their design process for creating and publishing effective data visualizations and visual stories for their own data**. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
 
