@@ -1,9 +1,12 @@
-![](figures/SDGS.png)
+![](figures/teaser.png)
 
 ## About this project
 This project aims to empower communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
 This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/).
+
+![](figures/SDGS.png)
+
 
 ## Who are we?
 We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](https://vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
@@ -29,6 +32,8 @@ Learning these decisions and skills requires time and practice as a lot of the k
 
 ## What's the goal of this proposal?
 The goal of this proposal is to create an **online platform and authoring environment that guides novice-designers in through their design process for creating and publishing effective data visualizations and visual stories for their own data**. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
+
+
 
 ## What will you be able to do with this platform? 
 You will be able to upload data, clean data, create basic visualizations, and create 
