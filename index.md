@@ -103,6 +103,7 @@ Our research goals are as follows. For any user engagement with this research, w
 3. **Build a prototype visualization-design platform** that implements these guidance mechanisms as part of the design process. Wherever possible, we will rely on existing toolkits, such as Vega-Lite for creating the charts. The platform is aimed to be publicly available and in a usable state so we can open it up the public and collect usage data for our research.
 4. **Evaluate a) the effectiveness of our guidance mechanisms and b) evaluate participants' learning progress** on a higher level, e.g., knowledge about visual perception, accessibility, interaction design, storytelling, good visual styles, deceptiveness, etc. We will obtain data through a longitudinal study over several months and involving around 40 novice-designers and interaction tracking, interviews, and drop-in sessions.
 5. **Create a set of guidelines and conceptual knowledge** (e.g., design spaces) about the use of guidance for visualization design. This should inspire other visualization tool desginers (e.g., Tableau, PowerBI) to include more guidance into their systems to help onboarding and teaching novice designers. 
+6. **Build a community** of practioneers, designers, and educators around visualization literacy and visualization for climate action.
 
 ## Is this project only specific to Climate Action? 
 
