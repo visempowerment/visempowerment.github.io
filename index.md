@@ -1,13 +1,15 @@
 ![](figures/teaser.png)
 
 ## About this project
-This project aims to [empower](#what-do-we-mean-by-empowerment) communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action and these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
-This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation/).
+This project aims to [empower](#what-do-we-mean-by-empowerment) communities, citizens, researchers, and decision makers in creating effective data visualization for climate action and decision making. Data visualization is a powerful means to understand data, whether to understand and explore complex and heterogenous data sets, obtain quick overviews over large data sets, or effectively communicate and engage diverse audiences with the matter at hand. Decision making is key to climate action, whether on a larger scale of politics, or on an individual level of personal daily decisions. Clearly, these decisions must be informed and backed up by data. Effective visualizations and communication can help people and decision makers making better decisions.
 
-![](figures/SDGS.png)
+This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation). The project will propose an open online authoring platform to guide novice designers in creating effective data visualizations and data stories.
+
+
 
 ## Who are we?
+
 We are a group of researchers in Data Visualization, Human-Computer Interaction, Design, Artificial Intelligence, Learning Analytics, and Education. We are primarily based at the [VisHub Lab](https://vishub.net) at Design Informatics, the School of Informatics, University of Edinburgh with an international team of scientific collaborators. We have been involved in many interdisciplinary projects with domain scientists, the public, and teach data visualization to graduate students and working professionals. We also run the Edinburgh DataVis Meetup.
 
 ### [>> Get in touch](#contact)
@@ -27,13 +29,16 @@ Some of the challenges in creating effective visualizations include:
 - Publish and distribute these on the web,
 - ...
  
-Learning these decisions and skills requires time and practice as a lot of the knowledg is tacit: you learn best by doing. One way to learn about visualization design are courses, but courses time-intense for both participants and teachers. There are plenty of tools (see vistools.net) to create visualization. However, choosing a tool that suits your needs and skills and consequently learning these tools can be challenging. Not every tool is the same. No tool support the whole process from data formatting, visualization design, and publication, 
+Learning these decisions and skills requires time and practice as a lot of the knowledg is tacit: you learn best by doing. One way to learn about visualization design are courses, but courses are time-intense for both participants and teachers and the engagement between learner and student usually does not last long beyond the course. So, how we can we provide design and education support beyond courses and workshops, e.g., while people work on own their projects in their daily working environment? 
+
+Eventually, there are plenty of tools (see [vistools.net](https://vistools.net)) to create visualizations. However, choosing a tool that suits your needs and skills and consequently learning these tools can be challenging. Not every tool is the same. No tool support the whole process from data formatting, visualization design, and publication, 
 
 ## What do we mean by 'Empowerment'? 
 
 ![](figures/learning goals.png)
 
-This project aims to both provide **tools and training** for novice designers to create effective data visualizations. With the project, we aim to support the following learning goals:
+By empowerment we mean the independent use, design and creation of effective data visualization. To that end, this project aims to provide **tools and training** for novice designers, addressing the following set of learning goals:
+
 * **USE** a wide range of visualizations in an informed way, know their advantages and pitfalls;
 leverage the power of interaction.
 * **PREPARE** data sets for visualization; clean and format data; filter and aggregate; link data
@@ -48,11 +53,17 @@ know and apply basic means of storytelling; chose effective media depending on a
 context, and messages
 
 
-## What's the goal of this proposal?
-The goal of this proposal is to create an **online platform and authoring environment that guides novice-designers in through their design process for creating and publishing effective data visualizations and visual stories for their own data**. A platform that helps with design decisions, suggests good solutions (e.g., color scales, chart types, interaction techniques…) , gives feedback, proposes creative exercises, and helps publish visualizations and visualization stories on the web. 
+## What's the appraoch and contribution of this proposal?
 
+The contribution of this proposal is to create an **open online authoring platform that guides novice-designers** in through their design process for creating and publishing effective data visualizations and visual stories for their own data. Besides creating and deploying visualizations, infographics, dashboards, and data comics online, the platform will help guiding the design process, through, e.g.,  
+- suggesting good solutions (e.g., color scales, chart types, interaction techniques…), 
+- provide automatic feedback, 
+- propose creative exercises,
+- support peer-feedback,
+- etc...
 
 ## What will you be able to do with this platform? 
+
 You will be able to upload data, clean data, create basic visualizations, and create 
 - infographics, 
 - interactive visualizations, 
@@ -60,39 +71,47 @@ You will be able to upload data, clean data, create basic visualizations, and cr
 - [data comics](gallery#dashboards), and
 - [Dashboards](gallery#data-stories). 
 
-### [>> Gallery of example visualizations for climate action](gallery). 
+### [Check the gallery of example visualizations for climate action](gallery). 
 
 ## How can you profit from this project?
-Joining the project as participant / project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects / projects by your stakeholders. We aim to run an open online course, too, that will teach some basics. We are currently evaluating how much support we can provide with your individual visualization projects, but the idea is that we try to incorporate as much support into the platform. 
+
+Joining the project as participant or project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects or projects for your stakeholders. You will be able to 
+- join an open online course or smaller workshops that will teach basics in visualization design. 
+- use our platform in your daily work, and 
+- join a community of novice and expert visualization designers  
 
 ## How can you get involved
+
 We are looking for **citizens, organizations, researchers, educators, climate activists, working professionals, communities**, etc, who would be willing to support our project through one or more of the following: 
-- join **interviews** on the challenges of visualization design (1h max)
-- want to support this project throughj **expertise** in education, climate action, communication, data visualization, outreach.
-- would like to join an open **visualization course** over a couple of weeks,
-- work on your smaller data **visualization projects**, 
-- Help us testing and **evaluating our prototypes** while working on their own data, or
-- **co-design and ideating** novel ways how we can build better visualization and storytelling authoring tools, 
+- want to join our online course, 
+- want to join in-person workshops, 
+- want to use and potentially help evaluating our authoring platform,
+- want to support this project throughj expertise in education, climate action, communication, data visualization, outreach.
+- join interviews on the challenges of visualization design (1h max)
+- co-design and ideating novel ways how we can build better visualization and storytelling authoring tools, 
+- use our platform and workshop methods in their teaching (e.g., on visualization, climate action, etc.)
+- help promote our project and platform more widely
 - etc.
 
 
 ## What are our research goals?
 
-For any user engagement with this research, we will obain ethics clearance from our School's ethics board.
+Our research goals are as follows. For any user engagement with this research, we will obain ethics clearance from our School's ethics board.
 
-Our research goals are: 
 1. **better understand barriers of novice-designers** in designing visualizations: while we have lots of informal and anecdotal knowledge from teaching courses, this goal aims at a structured and formal investigation about people's challenges, barriers, working contexts, and requirements for education in visualization.
 2. **Devise guidance mechanisms** to be implemented in the platform to, e.g., explore visualization options, suggest effective visual variables, support storytelling, explain unfamiliar visualization, assure readability and accessibility, and critical reflection. These guidance mechanisms will require user modeling to help each individual user in their personal journey. Possible mechanisms include automatic design feedback, design suggestions, explorable explanations, templates, recommendations, etc.
 3. **Build a prototype visualization-design platform** that implements these guidance mechanisms as part of the design process. Wherever possible, we will rely on existing toolkits, such as Vega-Lite for creating the charts. The platform is aimed to be publicly available and in a usable state so we can open it up the public and collect usage data for our research.
 4. **Evaluate a) the effectiveness of our guidance mechanisms and b) evaluate participants' learning progress** on a higher level, e.g., knowledge about visual perception, accessibility, interaction design, storytelling, good visual styles, deceptiveness, etc. We will obtain data through a longitudinal study over several months and involving around 40 novice-designers and interaction tracking, interviews, and drop-in sessions.
 5. **Create a set of guidelines and conceptual knowledge** (e.g., design spaces) about the use of guidance for visualization design. This should inspire other visualization tool desginers (e.g., Tableau, PowerBI) to include more guidance into their systems to help onboarding and teaching novice designers. 
 
-## Is this only specific to Climate Action? 
+## Is this project only specific to Climate Action? 
 
-**No.** As shown [here](#about-this-project), climate action is our main focus in working with project partners. We are very open to any other areas where we can support people creating effective visualizations. Please [get in touch](mail:bbach@ed.ac.uk) to know more.
+**No.** Climate action is our main focus when working with project partners. However, our authoring platform tries to stay as generalizable as possible and we are very open to any other areas where we can support people creating effective visualizations. Please [get in touch](mail:bbach@ed.ac.uk) to discuss. 
 
+![](figures/SDGS.png)
 
 ## What is our expertise and background in this research? 
+
 Below is a list of past papers and projects we engaged in. 
 
 - [Dashboard Design](https://dashboarddesignpatterns.github.io)
@@ -104,7 +123,7 @@ Below is a list of past papers and projects we engaged in.
 - [Online network visualizations](https://vistorian.github.io)
 
 ## Contact
-- [Benjamin Bach](mailto:bbach@ed.ac.uk), Reader in Visualization and Design Informatics
-
+- [Benjamin Bach](mailto:bbach@ed.ac.uk), Reader in Visualization and Design Informatics, University of Edinburgh
+- Uta Hinrichs, Reader in Data Visualization, University of Edinburgh
 
 
