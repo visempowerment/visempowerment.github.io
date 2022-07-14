@@ -6,7 +6,15 @@ This project aims to [empower](#what-do-we-mean-by-empowerment) communities, cit
 
 This website is part of an application to the [UKRI call on Enabling human centred decision making through data visualisation](https://www.ukri.org/opportunity/enabling-human-centred-decision-making-through-data-visualisation). The project will propose an open online authoring platform to guide novice designers in creating effective data visualizations and data stories.
 
+For our research on visualization authoring tools, design guidance, and education, we are looking for 
+- people who want to or need to create visualizations and visual data stories, 
+- but are new to visualization and/or have no formal design training. 
 
+In collaborating on this project, you  
+- can join an open online course or smaller workshops on visualization and storytelling. 
+- experiment with a novel visualization authoring platform we are building, 
+- help us evaluating education methdos and the platform, as well as
+- join a community of novice and expert visualization designers 
 
 ## Who are we?
 
@@ -73,12 +81,6 @@ You will be able to upload data, clean data, create basic visualizations, and cr
 
 ### [Check the gallery of example visualizations for climate action](gallery). 
 
-## How can you profit from this project?
-
-Joining the project as participant or project collaborators will give you first-hand insights and experience with visualization design and help with your own visualization projects or projects for your stakeholders. You will be able to 
-- join an open online course or smaller workshops that will teach basics in visualization design. 
-- use our platform in your daily work, and 
-- join a community of novice and expert visualization designers  
 
 ## How can you get involved
 
